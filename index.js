@@ -7,3 +7,7 @@ function sayName(){
     
 }
 
+function newFn(){
+    console.log('Hey Iam a new fn');
+    
+}
