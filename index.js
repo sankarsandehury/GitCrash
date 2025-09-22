@@ -16,3 +16,10 @@ function newfeatureAdd(){
     console.log("This is a new feature A");
     
 }
+
+function newfeatureAddB(){
+    console.log("This is a new feature");
+    console.log("This is a new feature B");
+    
+}
+
